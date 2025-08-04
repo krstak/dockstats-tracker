@@ -14,8 +14,8 @@
 
 ## 📬 How to Contribute
 
-- Found a bug? → [Open an issue](https://github.com/YOUR_USERNAME/DockStats-Tracker/issues/new?template=bug_report.md)
-- Have a feature idea? → [Submit a feature request](https://github.com/YOUR_USERNAME/DockStats-Tracker/issues/new?template=feature_request.md)
+- Found a bug? → [Open an issue](https://github.com/krstak/dockstats-tracker/issues/new)
+- Have a feature idea? → [Submit a feature request](https://github.com/krstak/dockstats-tracker/issues/new)
 
 ---
 
