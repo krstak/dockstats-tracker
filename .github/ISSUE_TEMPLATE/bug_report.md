@@ -10,6 +10,11 @@ labels: bug
 
 Clearly describe the problem.
 
+## System
+
+- [ ] Cloud version
+- [ ] Self-Hosted version
+
 ## Steps to Reproduce
 
 1. Go to https://dockstats.com  
