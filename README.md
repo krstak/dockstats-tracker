@@ -16,7 +16,6 @@
 
 - Found a bug? → [Open an issue](https://github.com/YOUR_USERNAME/DockStats-Tracker/issues/new?template=bug_report.md)
 - Have a feature idea? → [Submit a feature request](https://github.com/YOUR_USERNAME/DockStats-Tracker/issues/new?template=feature_request.md)
-- General questions or feedback? → Use [discussions](https://github.com/YOUR_USERNAME/DockStats-Tracker/discussions) *(if enabled)* or open a regular issue.
 
 ---
 
