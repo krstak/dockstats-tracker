@@ -1,6 +1,6 @@
 # DockStats Tracker
 
-📍 This repository is used **only** for tracking issues, suggestions, and feature requests related to [DockStats](https://dockstats.com/).
+📍 This repository is used **only** for tracking issues, suggestions, and feature requests related to <a href="https://dockstats.com/" target="_blank">DockStats</a>.
 
 ---
 
